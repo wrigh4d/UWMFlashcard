@@ -73,7 +73,7 @@
 
 ### Additional Screenshot
 
-<img src="images/presentation.jpg" alt="" width="100%"/>
+<img src="images/presentation.JPG" alt="" width="100%"/>
 <p align="center">Myself talking during the final presentation of the project showing off the create set feature</p> 
 
 
