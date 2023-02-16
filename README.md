@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-
-<!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/nick-wright12/)
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -85,9 +81,5 @@ Nick Wright - wrigh4d@cmich.edu
 
 Portfolio Website - [https://github.com/wrigh4d/portwebsite](https://www.nwrightport.com)
 
+LinkedIn - https://www.linkedin.com/in/nick-wright12/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
