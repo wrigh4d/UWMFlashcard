@@ -29,7 +29,9 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#additional-screenshot">More Images</a></li>
       </ul>
+      
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -66,6 +68,14 @@
 * Microsoft SQL Server
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Additional Screenshot
+
+<img src="images/presentation.jpg" alt="" width="100%"/>
+<p align="center">Myself talking during the final presentation of the project showing off the create set feature</p> 
+
 
 
 <!-- CONTACT -->
