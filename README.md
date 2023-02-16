@@ -75,9 +75,9 @@
 <!-- CONTACT -->
 ## Contact
 
-Nick Wright - wrigh4d@cmich.edu
+Email - wrigh4d@cmich.edu
 
-Portfolio Website - https://www.nwrightport.com
+Website - https://www.nwrightport.com
 
 LinkedIn - https://www.linkedin.com/in/nick-wright12/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
