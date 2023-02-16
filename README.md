@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
 <h1 align="center">UWM Flashcard Project</h1>
 
