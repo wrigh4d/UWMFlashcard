@@ -77,7 +77,7 @@
 
 Nick Wright - wrigh4d@cmich.edu
 
-Portfolio Website - [https://github.com/wrigh4d/portwebsite](https://www.nwrightport.com)
+Portfolio Website - https://www.nwrightport.com
 
 LinkedIn - https://www.linkedin.com/in/nick-wright12/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
